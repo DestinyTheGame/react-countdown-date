@@ -48,25 +48,25 @@ structure:
     10
     <span>Days</span>
   </div>
-  <div class'sep'>:</div>
-  
+  <div class='sep'>:</div>
+
   <div class='hours'>
     7
     <span>Hours</span>
   </div>
-  <div class'sep'>:</div>
-  
+  <div class='sep'>:</div>
+
   <div class='mins'>
     43
     <span>Minutes</span>
   </div>
-  <div class'sep'>:</div>
-  
+  <div class='sep'>:</div>
+
   <div class='secs'>
-    31
-    <span>seconds</span>
+    09
+    <span>Seconds</span>
   </div>
-  <div class'sep'>:</div>
+  <div class='sep'>:</div>
 </div>
 ```
 
