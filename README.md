@@ -66,7 +66,6 @@ structure:
     09
     <span>Seconds</span>
   </div>
-  <div class='sep'>:</div>
 </div>
 ```
 
