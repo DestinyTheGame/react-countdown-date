@@ -1,0 +1,42 @@
+{
+  "name": "react-countdown-date",
+  "version": "1.0.0",
+  "description": "Countdown to a given date and then reveal the components children",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/destinythegame/react-countdown-date.git"
+  },
+  "keywords": [
+    "react",
+    "count",
+    "down",
+    "countdown",
+    "date",
+    "timer"
+  ],
+  "author": "Arnout Kazemier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/destinythegame/react-countdown-date/issues"
+  },
+  "homepage": "https://github.com/destinythegame/react-countdown-date#readme",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "classnames": "^2.2.5",
+    "react": "^15.4.2",
+    "tick-tock": "^1.0.0"
+  },
+  "babel-ignore": false,
+  "babel": {
+    "plugins": [],
+    "presets": [
+      "babel-preset-es2015",
+      "babel-preset-react"
+    ]
+  }
+}
